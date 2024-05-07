@@ -1,4 +1,6 @@
 My Assignment on recruitment process in JALA on Data Scientist Position
+
+
 SR dan produktivitas budidaya dapat dipengaruhi oleh berbagai faktor, salah satunya cuaca. Produktivitas budidaya dapat ditingkatkan dengan mempertimbangkan waktu memulai budidaya. Pertimbangan waktu memulai budidaya udang tersebut berfokus untuk mencapai SR yang optimal. Apabila SR optimal, bukan tidak mungkin keberhasilan budidaya dapat dicapai.
 Tambak udang memiliki kaitan erat dengan kondisi cuaca. Suhu dan curah hujan mempengaruhi kondisi tambak udang, dan memiliki efek berantai dengan parameter lainnya, misalnya salinitas, pH, dan oksigen terlarut (DO). Parameter ini saling berkaitan satu sama lain dan menjadi penentu kelancaran budidaya.
 pH adalah parameter fisik yang paling berkaitan dengan curah hujan dan suhu. pH sendiri dipahami sebagai derajat keasaman untuk menyatakan tingkat keasaman atau kebasaan zat atau larutan. Nilai pH dipengaruhi oleh berbagai faktor, antara lain keasaman tanah dan air sumber, hujan dan air limpasan, rendahnya kadar alkalinitas, kepadatan tebar, dan lain-lain. 
